@@ -1,7 +1,6 @@
-# I'm choosing a hdb flat
-I've decided to use a slightly more rigorous approach to choose my BTO flat.
+# I'm choosing a hdb flat!
+I've decided to use a slightly more rigorous approach to choose my BTO flat - by first scraping the data from hdb website. Second, I tidied the data into a structured format. Lastly I construct a model by assigning a weight of 0 to 5 for important factors and 0 to 3 for not so important ones. Here're all the factor that I consider.
 
-Here're some factors that I'm taking into account. I will assign a weight of 0 to 5 for important factors and 0 to 3 for not so important ones
 - Afternoon sun
 - Near main road
 - Near rubbish bin
