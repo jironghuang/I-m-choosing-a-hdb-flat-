@@ -1,5 +1,5 @@
 # I'm choosing a hdb flat!
-*With massive inputs from Sheena ng*
+*With massive inputs from Sheena Ng*
 
 Just 3 weeks (at the point of writing in early Feb) before choosing a flat, I finally found some time to ponder on how to pick a flat from a sea of choices. 
 
@@ -58,7 +58,7 @@ With the scores, we're able to rank all the units. There're some advantages usin
 - First, given that there are still 3 weeks to pick a flat, many of our top choices would have already been chosen. Instead of repeating  the exercise all over again, we could revisit our choices 1 day before our BIG OCCASION and strike out all the already chosen flats.
 - Second, we also consider a suite of factors - instead of just a single factor that could potentially cloud our judgment.
 
-Caveats
+*Caveats*
 - A better approach is to conduct a longitudinal panel regression - with the price as dependent variable and the attributes as dependent variables
 - Or carry out a comprehensive revealed preference survey with me and my gf. Essentially 2 data points:)
 
