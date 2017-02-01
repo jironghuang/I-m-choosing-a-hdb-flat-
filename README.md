@@ -1,5 +1,5 @@
 # I'm choosing a hdb flat!
-#With massive inputs from Sheena ng
+*With massive inputs from Sheena ng*
 
 Just 3 weeks (at the point of writing in early Feb) before choosing a flat, I finally found some time to ponder on how to pick a flat from a sea of choices. 
 
