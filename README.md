@@ -1,5 +1,5 @@
 # I'm choosing a hdb flat!
-*With massive inputs from Sheena ng
+*With massive inputs from Sheena ng*
 
 You may refer to the following github link if would like to refer to the code/further technical details
 
