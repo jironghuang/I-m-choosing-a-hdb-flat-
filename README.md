@@ -56,7 +56,7 @@ We then proceed to assign weights of 1 to 5 for each of them - 5 for the importa
 
 Short of constructing a regression or any fancy machine learning model for the weights (because I've no idea how to obtain the above data on existing estates), we proceed to assign a score of 1 to 5 for each unit factor. 
  
-For each unit, we first multiply all the weights with the factor's scores. Then we add up all the weighted scores to obtain the aggregate score. I hope you get the idea.
+For each unit, we find the geometric average using the weights and scores. I shall leave you to 'google' on geometric average:) 
 
 Now we end up with a score for each unit for ranking. This may sound onerous you think? By ranking all the units?! Yes, to a certain extent. But we're not assigning a score on each attribute for all the units. Simply because if a score of 0 is assigned to an attribute, we can save the effort of assigning a score to rest of the attributes. When you multiply 0 with any other numbers, it's still 0. So we can save our time and efforts on this.
 
